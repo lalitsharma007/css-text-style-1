@@ -1,0 +1,13 @@
+body{
+	background:  #FF9F33  ;
+}
+.tati{
+	font-family: Montserrat, sans-serif;
+	font-size: 300px;
+	background-image: url('RVR_0838.JPG');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
